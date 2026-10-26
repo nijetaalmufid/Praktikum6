@@ -13,6 +13,6 @@ Kegunaannya: memilih elemen HTML dengan mudah, mengubah tampilan elemen (misalny
 - JavaScript lebih cepat dan ringan, sedangkan jQuery sedikit lebih berat karena memuat library tambahan.
 - jQuery tidak bisa berjalan tanpa JavaScript, tetapi JavaScript bisa berjalan tanpa jQuery.
 
-![alt text](<Screenshot 2026-10-26 115140-2.png>)
 
-![alt text](<Screenshot 2026-10-26 115115-1.png>)
+<img width="1280" height="800" alt="Screenshot 2026-10-26 115140" src="https://github.com/user-attachments/assets/4d637713-6932-4669-9b74-07c186023a9c" />
+<img width="1280" height="800" alt="Screenshot 2026-10-26 115115" src="https://github.com/user-attachments/assets/c4a1ef90-47ea-472a-98b5-36628b90907f" />
